@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5KQvdCMgK3I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serge\\OneDrive\\Desktop\\Дубровская\\лаба№6\\лаба№6\\лаба№6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serge\\.nuget\\packages\\serilog\\4.3.1\\serilog.4.3.1.nupkg.sha512",
+    "C:\\Users\\serge\\.nuget\\packages\\serilog.sinks.console\\6.1.1\\serilog.sinks.console.6.1.1.nupkg.sha512",
+    "C:\\Users\\serge\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
